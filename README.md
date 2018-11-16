@@ -1,2 +1,2 @@
 # MyClass
-This is my class.
+This is my class, and it is mine!
